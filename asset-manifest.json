@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plantapp/static/css/main.41bf7ce4.css",
+    "main.js": "/plantapp/static/js/main.75aebd52.js",
+    "index.html": "/plantapp/index.html",
+    "main.41bf7ce4.css.map": "/plantapp/static/css/main.41bf7ce4.css.map",
+    "main.75aebd52.js.map": "/plantapp/static/js/main.75aebd52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41bf7ce4.css",
+    "static/js/main.75aebd52.js"
+  ]
+}
